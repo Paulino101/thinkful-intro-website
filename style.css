@@ -38,12 +38,28 @@ img {
 }
 
 svg {
-  width: 10%;
+  width: 5%;
   height: 25%;
-  margin: 2rem;
+  margin: 1rem;
 }
 
 .svgContainer {
   text-align: center;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: yellow;
 }
 /*# sourceMappingURL=style.css.map */

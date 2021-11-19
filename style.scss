@@ -23,11 +23,25 @@ img {
   justify-content: space-around;
   align-items: center;
 }
+// SVG STYLES
 svg {
-  width: 10%;
+  width: 5%;
   height: 25%;
-  margin: 2rem;
+  margin: 1rem;
 }
 .svgContainer {
   text-align: center;
+}
+//  LINKS PSEUDO CLASSES
+a:link {
+  color: blue;
+}
+a:visited {
+  color: orange;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: yellow;
 }
